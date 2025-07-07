@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+build/
+.env
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+# Docker
+*.log
